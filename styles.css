@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+}
+
+table td {
+    padding:10px;
+}
+
+input {
+    width:65px;
+    height:65px;
+    background-color: #5f5f5f;
+    border: 0;
+    cursor: pointer;
+}
+
+input.lit {
+    background-color: #edfab4;
+    box-shadow: 0 0 50px 15px #edfab4;
+}
